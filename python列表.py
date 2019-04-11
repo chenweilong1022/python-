@@ -11,3 +11,6 @@ print(list[0:2])#取第一个到第二个元素
 print(list[1:])#取第二个到末尾
 print(tlist * 2)#输出两边tlist
 print(list + tlist)#打印组合的列表
+
+list[0] = "chenweilongshibaba"
+print(list)#输出完整列表
