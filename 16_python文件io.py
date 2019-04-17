@@ -39,4 +39,13 @@ import os
 # file.write("woshishuaibi")
 # file.close()
 
-print(os.getcwd())
+# print(os.getcwd())
+
+# os.chdir("D:\\log")
+# print(os.getcwd())
+# os.rmdir("D:/log/test_java_frame")
+
+os.remove("D:/log/test_java_frame/1.txt")
+
+# os.remove("D:/log/test_java_frame/")
+# os.removedirs("D:/log/test_java_frame")
